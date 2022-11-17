@@ -1,4 +1,6 @@
-This is a visualization of the QuadTree splits, using the quadTree algorithm(of course !!). 
+This is a visualization of the QuadTree splits, using the quadTree algorithm(of course !!), and P5.
+
+The P5 and the algorithm are separeted in differnt files.
 
 
 I did this following the tutorial on https://www.youtube.com/watch?v=QQx_NmCIuCY -- The coding train
